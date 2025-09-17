@@ -19,8 +19,8 @@
   }
   
   body, button, input {
-    font-weight: 700;
-    letter-spacing: 1.4px;
+    /* font-weight: 700;
+    letter-spacing: 1.4px; */
   }
   
   .background {
